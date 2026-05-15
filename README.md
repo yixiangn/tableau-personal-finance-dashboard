@@ -25,24 +25,19 @@ Output file:
 - data/transactions.csv
 
 ## Repository Structure
-tableau-personal-finance-dashboard/
-│
-├── data/
-│   └── transactions.csv
-│
-├── tableau/
-│   └── personal_finance_dashboard.twbx
-│
-├── docs/
-│   ├── data_dictionary.md
-│   ├── tableau_calculations.md
-│   └── project_notes.md
-│
-├── scripts/
-│   └── generate_synthetic_data.py
-│
-├── README.md
-└── .gitignore
+tableau-personal-finance-dashboard
+- data
+    - transactions.csv
+- docs
+    - data_dictionary.md
+    - project_notes.md
+    - tableau_calculations.md
+- scripts
+  - generate_synthetic_data.py
+- tableau
+    - personal_finance_dashboard.twbx
+- README.md
+- .gitignore
 
 ## Dataset
 The dataset contains synthetic personal finance transactions with fields such as:
