@@ -13,29 +13,51 @@ The dashboard should not only look correct visually, but also match the expected
 The Python data generation script prints summary totals after generating the dataset, whilst summary totals on Tableau are evaluated through the formulas below:
 
 
-##### Completed income
-**Python logic**
-    ![CompletedIncome_python](Images/CompletedIncome_python.png)
-**Tableau Logic**
-    ![CompletedIncome_tableau](Images/CompletedIncome_tableau.png)
+##### Completed Income
 
-##### Completed expenses
 **Python logic**
-    ![CompletedExpense_python](Images/CompletedExpense_python.png)
-**Tableau Logic**
-    ![CompletedExpense_tableau](Images/CompletedExpense_tableau.png)
 
-##### Net savings
-**Python logic**
-    ![NetSavings_python](Images/NetSavings_python.png)
-**Tableau Logic**
-    ![NetSavings_tableau](Images/NetSavings_tableau.png)  
+![Completed Income Python](images/CompletedIncome_python.png)
 
-##### Savings rate
+**Tableau logic**
+
+![Completed Income Tableau](images/CompletedIncome_tableau.png)
+
+---
+
+##### Completed Expenses
+
 **Python logic**
-    ![SavingsRate_python](Images/SavingsRate_python.png)
-**Tableau Logic**
-    ![SavingsRate_tableau](Images/SavingsRate_tableau.png)
+
+![Completed Expense Python](images/CompletedExpense_python.png)
+
+**Tableau logic**
+
+![Completed Expense Tableau](images/CompletedExpense_tableau.png)
+
+---
+
+##### Net Savings
+
+**Python logic**
+
+![Net Savings Python](images/NetSavings_python.png)
+
+**Tableau logic**
+
+![Net Savings Tableau](images/NetSavings_tableau.png)
+
+---
+
+##### Savings Rate
+
+**Python logic**
+
+![Savings Rate Python](images/SavingsRate_python.png)
+
+**Tableau logic**
+
+![Savings Rate Tableau](images/SavingsRate_tableau.png)
 
 
 #### Validation Results
