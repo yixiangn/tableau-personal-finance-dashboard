@@ -17,11 +17,11 @@ The Python data generation script prints summary totals after generating the dat
 
 **Python logic**
 
-![Completed Income Python](images/CompletedIncome_python.png)
+![Completed Income Python](Images/CompletedIncome_python.png)
 
 **Tableau logic**
 
-![Completed Income Tableau](images/CompletedIncome_tableau.png)
+![Completed Income Tableau](Images/CompletedIncome_tableau.png)
 
 ---
 
@@ -29,11 +29,11 @@ The Python data generation script prints summary totals after generating the dat
 
 **Python logic**
 
-![Completed Expense Python](images/CompletedExpense_python.png)
+![Completed Expense Python](Images/CompletedExpense_python.png)
 
 **Tableau logic**
 
-![Completed Expense Tableau](images/CompletedExpense_tableau.png)
+![Completed Expense Tableau](Images/CompletedExpense_tableau.png)
 
 ---
 
@@ -41,11 +41,11 @@ The Python data generation script prints summary totals after generating the dat
 
 **Python logic**
 
-![Net Savings Python](images/NetSavings_python.png)
+![Net Savings Python](Images/NetSavings_python.png)
 
 **Tableau logic**
 
-![Net Savings Tableau](images/NetSavings_tableau.png)
+![Net Savings Tableau](Images/NetSavings_tableau.png)
 
 ---
 
@@ -53,11 +53,11 @@ The Python data generation script prints summary totals after generating the dat
 
 **Python logic**
 
-![Savings Rate Python](images/SavingsRate_python.png)
+![Savings Rate Python](Images/SavingsRate_python.png)
 
 **Tableau logic**
 
-![Savings Rate Tableau](images/SavingsRate_tableau.png)
+![Savings Rate Tableau](Images/SavingsRate_tableau.png)
 
 
 #### Validation Results
