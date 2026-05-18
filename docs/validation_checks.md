@@ -14,27 +14,27 @@ The Python data generation script prints summary totals after generating the dat
 
 
 ##### Completed income
-- Python logic
+**Python logic**
     ![CompletedIncome_python](Images/CompletedIncome_python.png)
-- Tableau Logic
+**Tableau Logic**
     ![CompletedIncome_tableau](Images/CompletedIncome_tableau.png)
 
 ##### Completed expenses
-- Python logic
+**Python logic**
     ![CompletedExpense_python](Images/CompletedExpense_python.png)
-- Tableau Logic
+**Tableau Logic**
     ![CompletedExpense_tableau](Images/CompletedExpense_tableau.png)
 
 ##### Net savings
-- Python logic
+**Python logic**
     ![NetSavings_python](Images/NetSavings_python.png)
-- Tableau Logic
+**Tableau Logic**
     ![NetSavings_tableau](Images/NetSavings_tableau.png)  
 
 ##### Savings rate
-- Python logic
+**Python logic**
     ![SavingsRate_python](Images/SavingsRate_python.png)
-- Tableau Logic
+**Tableau Logic**
     ![SavingsRate_tableau](Images/SavingsRate_tableau.png)
 
 
